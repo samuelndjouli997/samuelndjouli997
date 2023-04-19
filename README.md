@@ -2,6 +2,11 @@
   <img src="https://i.ibb.co/McfN41D/Frame-1.png" width="100%"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
