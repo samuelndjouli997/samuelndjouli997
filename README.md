@@ -20,7 +20,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on CondingGame and read tech articles.
 
-- :mailbox:How to reach me: <a href="mailto:samuelndj.997@gmail.com">samuelndj.997@gmail.com</a> 
+- :mailbox:How to reach me: samuelndj.997@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
