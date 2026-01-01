@@ -10,7 +10,7 @@
 
   <h3>
     <sup>
-      <i>Full-Stack Developer
+      <i>Full-Stack Developer from Paris
     </sup>
   </h3>
         
@@ -99,11 +99,15 @@
  
 </p>
 
-<h3>Featured projects</h3>
+<h2>Featured projects</h2>
 
 | Project | Description | Technologies |
 |---------------|------------|-----------------|
 | [**Deezer Search Engine App**](https://github.com/samuelndjouli997/deezer-search-engine-app) | Artists Search Engine  | [![TanStack Start](https://img.shields.io/badge/TanStack%20Start-ff7f00?logo=tanstack&style=flat)](#) [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](#) [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white&style=flat)](#) [![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)](#)|
 | [**QuizzAi**](https://github.com/samuelndjouli997/quizzai-platform) | Ai Quiz Platform | 	[![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)](#) [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](#) [![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white&style=flat)](#) [![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)](#) |
+</div>
 
+<div align="center">
+  <h2>Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelndjouli997&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
