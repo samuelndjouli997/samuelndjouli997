@@ -25,7 +25,7 @@
   
 <h2>About me</h2>
 
-- Currently working on **[QuizzAi](https://github.com/samuelndjouli997/quizzai-platform)** - Online quiz powered by AI
+- Currently working on **[Quiz For U](https://github.com/samuelndjouli997/quiz-for-u)** - Online quiz powered by AI
 - Learning **Vue.JS**  
 - Looking to collaborate on **open-source projects**
 - All of my projects are available at [https://www.samuel-ndjouli.com](https://www.samuel-ndjouli.com)
@@ -104,7 +104,7 @@
 | Project | Description | Technologies |
 |---------------|------------|-----------------|
 | [**Deezer Search Engine App**](https://github.com/samuelndjouli997/deezer-search-engine-app) | Artists Search Engine  | [![TanStack Start](https://img.shields.io/badge/TanStack%20Start-ff7f00?logo=tanstack&style=flat)](#) [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](#) [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?logo=graphql&logoColor=white&style=flat)](#) [![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)](#)|
-| [**QuizzAi**](https://github.com/samuelndjouli997/quizzai-platform) | Ai Quiz Platform | 	[![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)](#) [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](#) [![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white&style=flat)](#) [![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)](#) |
+| [**Quiz For U**](https://github.com/samuelndjouli997/quiz-for-u) | Ai Quiz Platform | 	[![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=flat)](#) [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)](#) [![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white&style=flat)](#) [![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)](#) |
 </div>
 
 <div align="center">
