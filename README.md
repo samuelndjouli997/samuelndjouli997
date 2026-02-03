@@ -25,7 +25,7 @@
   
 <h2>About me</h2>
 
-- Currently working on **[Quiz For U](https://github.com/samuelndjouli997/quiz-for-u)** - Online quiz powered by AI
+- Currently working on **Pixelico** - Online Favicon Generator
 - Learning **Vue.JS**  
 - Looking to collaborate on **open-source projects**
 - All of my projects are available at [https://www.samuel-ndjouli.com](https://www.samuel-ndjouli.com)
