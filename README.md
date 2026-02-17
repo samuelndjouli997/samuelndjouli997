@@ -25,7 +25,7 @@
   
 <h2>About me</h2>
 
-- Currently working on **Pixelico** - Online Favicon Generator
+- Currently working on **Icon Studio** - An online Favicon Generator
 - Learning **Vue.JS**  
 - Looking to collaborate on **open-source projects**
 - All of my projects are available at [https://www.samuel-ndjouli.com](https://www.samuel-ndjouli.com)
